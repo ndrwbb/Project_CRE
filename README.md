@@ -26,4 +26,4 @@ Download full notebook [(Project_cre.ipynb)](https://disk.360.yandex.ru/d/9GnavZ
 
 Streamlit App
 
-An interactive **[Streamlit web](https://commercial-estate.streamlit.app)** app to explore filtered listings on a live map.
+An interactive **[Streamlit web](http://192.168.1.14:8501)** app to explore filtered listings on a live map.
